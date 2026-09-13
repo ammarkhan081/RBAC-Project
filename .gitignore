@@ -1,0 +1,16 @@
+.env
+*.env
+__pycache__/
+*.pyc
+.pytest_cache/
+node_modules/
+.next/
+chroma_db/
+*.duckdb
+*.db
+report.html
+test-results/
+videos/
+*.log
+server.log
+

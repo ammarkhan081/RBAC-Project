@@ -1,0 +1,26 @@
+business_metrics:
+  net_income_growth:
+    description: "Percentage increase in net income between fiscal periods"
+    calculation: "((net_income_current - net_income_prior) / net_income_prior) * 100"
+  roi:
+    description: "Return on Investment"
+    calculation: "(net_profit / total_investment) * 100"
+  marketing_spend:
+    description: "Total expenditures on marketing and advertising campaigns"
+    calculation: "SUM(vendor_services + campaign_cost)"
+  employee_attrition:
+    description: "Rate of employees taking extended leaves or departures"
+    calculation: "leaves_taken / headcount"
+  top_performers:
+    description: "Employees with the highest performance appraisal"
+    filter: "performance_rating = 5"
+  headcount:
+    description: "Total count of active employees"
+    calculation: "COUNT(employee_id)"
+
+column_synonyms:
+  name: ["full_name", "employee_name"]
+  salary: ["compensation", "annual_pay", "ctc"]
+  rating: ["performance_rating", "appraisal_score"]
+  department: ["dept", "division", "team"]
+  quarter: ["fiscal_quarter", "period"]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "tc_hybrid_001",
+    "question": "Why did marketing expenses increase in Q3 and by how much?",
+    "role": "marketing",
+    "username": "bruce",
+    "expected_mode": "HYBRID",
+    "required_sql_keywords": ["marketing", "Q3", "145000", "spend"],
+    "required_doc_keywords": ["European", "CAC", "brand", "expansion"],
+    "description": "Benchmark testing correlation of Q3 marketing budget overrun with EU brand campaigns."
+  },
+  {
+    "id": "tc_hybrid_002",
+    "question": "How did engineering headcount change in 2024 and what was the impact?",
+    "role": "hr",
+    "username": "natasha",
+    "expected_mode": "HYBRID",
+    "required_sql_keywords": ["salary", "performance", "Engineering"],
+    "required_doc_keywords": ["retention", "handbook", "policy"],
+    "description": "Benchmark testing correlation between HR headcount metrics and employee retention policies."
+  },
+  {
+    "id": "tc_hybrid_003",
+    "question": "What caused the drop in Q2 sales revenue and what was the exact variance?",
+    "role": "finance",
+    "username": "bruce",
+    "expected_mode": "HYBRID",
+    "required_sql_keywords": ["revenue", "Q2", "quarter"],
+    "required_doc_keywords": ["fiscal", "policy", "audit"],
+    "description": "Benchmark testing cross-modal reconciliation of revenue variance against financial reports."
+  }
+]

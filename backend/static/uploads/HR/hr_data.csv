@@ -1,0 +1,106 @@
+employee_id,full_name,role,department,email,location,date_of_birth,date_of_joining,manager_id,salary,leave_balance,leaves_taken,attendance_pct,performance_rating,last_review_date
+EMP1000,Ahmed Raza Malik,Chief Executive Officer,Executive,ceo@finsolve-demo.com,"Karachi, PK",1978-04-12,2016-01-04,,285000,12.0,6,97.5,5,2025-01-15
+EMP1001,Chen Raza,Software Engineer,Engineering,chen.raza76@finsolve-demo.com,"Dubai, UAE",1987-05-04,2020-09-30,EMP1023,143598,6.9,3,96.0,5,2024-03-30
+EMP1002,Sana Khan,Software Engineer,Engineering,sana.khan54@finsolve-demo.com,"Rawalpindi, PK",1985-06-08,2023-09-01,EMP1025,109328,15.2,17,90.3,4,2025-07-12
+EMP1003,Aliya Saeed,DevOps Engineer,Engineering,aliya.saeed14@finsolve-demo.com,"Lahore, PK",1975-04-17,2019-10-16,EMP1005,148046,17.4,10,91.3,3,2024-12-10
+EMP1004,Mahnoor Raza,DevOps Engineer,Engineering,mahnoor.raza11@finsolve-demo.com,"Faisalabad, PK",1990-06-06,2024-10-08,EMP1005,150541,7.8,1,96.6,3,2025-01-22
+EMP1005,Mehak Anderson,Engineering Manager,Engineering,mehak.anderson30@finsolve-demo.com,"Lahore, PK",2000-11-24,2020-02-27,EMP1024,161400,17.5,1,95.8,4,2024-03-22
+EMP1006,Mahnoor Baig,QA Engineer,Engineering,mahnoor.baig83@finsolve-demo.com,"Lahore, PK",1991-05-14,2019-10-29,EMP1023,136660,10.1,6,95.9,4,2025-11-30
+EMP1007,Ryan Anderson,Senior Software Engineer,Engineering,ryan.anderson29@finsolve-demo.com,Remote - PK,1985-12-24,2019-11-01,EMP1025,130005,12.2,8,99.7,4,2025-07-24
+EMP1008,Mehak Wang,Software Engineer,Engineering,mehak.wang28@finsolve-demo.com,Remote - Global,1976-06-09,2021-07-16,EMP1005,110010,10.8,2,90.5,5,2024-11-18
+EMP1009,Salman Nguyen,Data Engineer,Engineering,salman.nguyen75@finsolve-demo.com,"Dubai, UAE",1981-05-29,2020-12-20,EMP1023,125071,5.1,17,94.4,4,2025-03-14
+EMP1010,Adeel Iqbal,Senior Software Engineer,Engineering,adeel.iqbal55@finsolve-demo.com,"Lahore, PK",1997-02-19,2019-01-08,EMP1025,128392,18.6,3,89.8,3,2025-11-27
+EMP1011,Mahnoor Abbasi,Engineering Manager,Engineering,mahnoor.abbasi97@finsolve-demo.com,"Faisalabad, PK",1998-09-26,2020-10-26,EMP1005,175348,23.4,0,96.0,2,2025-07-03
+EMP1012,Hassan Anderson,DevOps Engineer,Engineering,hassan.anderson65@finsolve-demo.com,"Islamabad, PK",1988-03-01,2022-11-16,EMP1005,102310,5.5,0,99.3,5,2024-09-26
+EMP1013,Michael Brown,Software Engineer,Engineering,michael.brown68@finsolve-demo.com,"Karachi, PK",1988-05-21,2025-03-02,EMP1016,152050,13.2,6,89.8,4,2025-07-06
+EMP1014,Ryan Siddiqui,QA Engineer,Engineering,ryan.siddiqui11@finsolve-demo.com,"Lahore, PK",1980-01-07,2022-01-26,EMP1024,96276,21.3,9,90.8,3,2025-08-03
+EMP1015,Layla Javed,Software Engineer,Engineering,layla.javed78@finsolve-demo.com,"Dubai, UAE",1998-11-23,2019-05-31,EMP1011,144846,4.8,15,99.2,3,2025-06-24
+EMP1016,Faisal Brown,Engineering Manager,Engineering,faisal.brown32@finsolve-demo.com,"Rawalpindi, PK",1988-12-25,2022-06-23,EMP1000,140365,23.9,11,93.2,3,2024-05-03
+EMP1017,Zainab Siddiqui,Software Engineer,Engineering,zainab.siddiqui9@finsolve-demo.com,"Karachi, PK",1999-11-06,2020-07-31,EMP1016,133555,14.9,0,88.8,4,2024-08-22
+EMP1018,Sobia Siddiqui,Software Engineer,Engineering,sobia.siddiqui74@finsolve-demo.com,Remote - Global,1985-09-04,2021-02-14,EMP1024,128695,16.7,6,94.4,4,2025-08-07
+EMP1019,Tariq Kumar,QA Engineer,Engineering,tariq.kumar87@finsolve-demo.com,"Lahore, PK",1993-04-05,2020-02-19,EMP1025,147920,4.1,13,92.2,3,2024-02-25
+EMP1020,Hamza Abbasi,Data Engineer,Engineering,hamza.abbasi60@finsolve-demo.com,"Rawalpindi, PK",1979-11-26,2020-10-15,EMP1024,117236,6.2,17,93.3,3,2024-10-12
+EMP1021,Sobia Brown,Software Engineer,Engineering,sobia.brown22@finsolve-demo.com,"Dubai, UAE",1999-09-08,2019-02-06,EMP1024,124041,3.1,17,97.9,5,2024-08-30
+EMP1022,Emily Javed,Senior Software Engineer,Engineering,emily.javed37@finsolve-demo.com,"Dubai, UAE",1992-12-27,2018-08-29,EMP1025,151665,5.6,0,99.6,3,2025-04-10
+EMP1023,Priya Lee,Engineering Manager,Engineering,priya.lee8@finsolve-demo.com,"Karachi, PK",1981-12-11,2020-02-17,EMP1000,177788,8.5,1,94.8,3,2024-11-17
+EMP1024,Emma Javed,Engineering Manager,Engineering,emma.javed87@finsolve-demo.com,"Rawalpindi, PK",1982-01-23,2018-08-21,EMP1025,183615,23.1,2,98.0,2,2024-03-10
+EMP1025,Salman Raza,Engineering Manager,Engineering,salman.raza41@finsolve-demo.com,"Faisalabad, PK",2000-12-20,2024-09-01,EMP1000,146271,2.9,2,92.9,4,2025-06-19
+EMP1026,Faisal Smith,Data Engineer,Engineering,faisal.smith2@finsolve-demo.com,Remote - Global,1985-09-15,2020-12-23,EMP1024,115590,10.7,9,93.4,5,2024-03-15
+EMP1027,Grace Saeed,Financial Analyst,Finance,grace.saeed48@finsolve-demo.com,"Faisalabad, PK",1999-02-12,2020-05-23,EMP1040,84801,13.1,4,99.0,5,2024-09-07
+EMP1028,Hira Awan,Controller,Finance,hira.awan85@finsolve-demo.com,"Lahore, PK",1988-07-27,2024-11-10,EMP1000,142107,23.6,16,88.1,4,2024-11-02
+EMP1029,Arslan Sheikh,Accountant,Finance,arslan.sheikh88@finsolve-demo.com,"Faisalabad, PK",1979-10-20,2024-03-16,EMP1043,87564,5.4,9,95.1,4,2024-07-27
+EMP1030,Michael Javed,Accountant,Finance,michael.javed82@finsolve-demo.com,"Faisalabad, PK",1977-04-12,2019-01-14,EMP1041,135450,16.0,8,88.5,3,2024-05-13
+EMP1031,Hira Lee,Finance Manager,Finance,hira.lee70@finsolve-demo.com,"Karachi, PK",1994-03-09,2024-04-16,EMP1000,132154,2.2,2,99.2,4,2024-06-01
+EMP1032,Mehak Qureshi,Controller,Finance,mehak.qureshi46@finsolve-demo.com,"Rawalpindi, PK",1981-08-23,2022-10-27,EMP1041,132210,4.8,9,92.3,5,2024-02-10
+EMP1033,Yusuf Iqbal,Treasury Analyst,Finance,yusuf.iqbal21@finsolve-demo.com,"Islamabad, PK",1990-11-12,2024-04-12,EMP1041,86736,21.5,13,99.5,4,2024-08-30
+EMP1034,Arslan Hashmi,Financial Analyst,Finance,arslan.hashmi49@finsolve-demo.com,"Karachi, PK",1989-11-25,2022-08-14,EMP1043,91754,19.6,7,91.1,4,2024-04-20
+EMP1035,Junaid Javed,Senior Financial Analyst,Finance,junaid.javed43@finsolve-demo.com,"Faisalabad, PK",1995-08-25,2021-12-03,EMP1031,93079,8.7,7,90.6,4,2025-02-12
+EMP1036,Sobia Malik,Accountant,Finance,sobia.malik23@finsolve-demo.com,"Faisalabad, PK",1997-11-07,2022-06-26,EMP1037,103012,16.9,17,91.9,1,2024-09-24
+EMP1037,Sana Raza,Controller,Finance,sana.raza33@finsolve-demo.com,"Karachi, PK",1990-07-04,2021-07-08,EMP1000,124479,11.6,16,89.4,5,2024-07-13
+EMP1038,Rohan Hashmi,Financial Analyst,Finance,rohan.hashmi43@finsolve-demo.com,Remote - PK,1999-02-25,2025-09-14,EMP1031,114073,17.8,6,92.3,2,2025-11-11
+EMP1039,Aisha Silva,Financial Analyst,Finance,aisha.silva17@finsolve-demo.com,"Rawalpindi, PK",1988-06-21,2023-09-09,EMP1037,127169,8.8,13,91.8,4,2025-07-21
+EMP1040,Iqra Smith,Finance Manager,Finance,iqra.smith27@finsolve-demo.com,"Dubai, UAE",1982-10-22,2024-11-26,EMP1000,140388,14.5,12,94.5,1,2024-10-20
+EMP1041,Sarah Saeed,Controller,Finance,sarah.saeed85@finsolve-demo.com,"Lahore, PK",1989-06-15,2023-03-20,EMP1000,138906,11.7,6,94.0,4,2024-06-22
+EMP1042,Rabia Mirza,Treasury Analyst,Finance,rabia.mirza19@finsolve-demo.com,"Karachi, PK",1990-01-13,2019-01-18,EMP1037,121480,20.0,7,95.9,3,2024-07-22
+EMP1043,Sana Iqbal,Finance Manager,Finance,sana.iqbal52@finsolve-demo.com,"Rawalpindi, PK",1978-04-08,2023-02-09,EMP1032,136060,11.1,18,90.3,4,2025-05-21
+EMP1044,Ali Anderson,Treasury Analyst,Finance,ali.anderson59@finsolve-demo.com,"Islamabad, PK",1979-10-13,2022-10-08,EMP1037,80363,6.8,16,93.5,4,2024-05-04
+EMP1045,Bilqis Awan,SEO Specialist,Marketing,bilqis.awan55@finsolve-demo.com,Remote - Global,2000-01-27,2024-09-04,EMP1051,99808,9.0,14,95.2,4,2025-05-31
+EMP1046,Komal Farooq,SEO Specialist,Marketing,komal.farooq31@finsolve-demo.com,"Faisalabad, PK",1995-03-10,2020-11-27,EMP1056,96108,18.5,8,97.0,3,2025-10-03
+EMP1047,Aliya Malik,SEO Specialist,Marketing,aliya.malik89@finsolve-demo.com,"Islamabad, PK",1985-07-08,2021-01-17,EMP1051,83725,9.4,17,89.0,3,2025-01-27
+EMP1048,Rohan Butt,Marketing Specialist,Marketing,rohan.butt99@finsolve-demo.com,"Karachi, PK",1993-04-14,2021-09-17,EMP1051,92188,13.9,13,88.7,4,2025-02-02
+EMP1049,Junaid Nguyen,Brand Manager,Marketing,junaid.nguyen69@finsolve-demo.com,"Rawalpindi, PK",1996-05-24,2018-01-25,EMP1054,102928,22.7,9,96.9,4,2025-03-05
+EMP1050,Emily Iqbal,Marketing Manager,Marketing,emily.iqbal80@finsolve-demo.com,"Karachi, PK",1996-10-13,2018-04-29,EMP1000,106562,10.6,12,96.5,4,2024-05-10
+EMP1051,Shahzad Abbasi,Brand Manager,Marketing,shahzad.abbasi49@finsolve-demo.com,Remote - PK,1976-03-20,2018-12-10,EMP1049,114987,16.1,4,98.2,3,2024-09-23
+EMP1052,Faisal Awan,Marketing Manager,Marketing,faisal.awan96@finsolve-demo.com,"Karachi, PK",1992-01-03,2021-02-13,EMP1000,100118,18.5,13,91.0,2,2024-01-20
+EMP1053,Noor Iqbal,SEO Specialist,Marketing,noor.iqbal17@finsolve-demo.com,Remote - Global,1976-10-21,2018-05-08,EMP1056,69496,22.9,6,97.9,4,2024-09-01
+EMP1054,Aisha Raza,Brand Manager,Marketing,aisha.raza21@finsolve-demo.com,"Faisalabad, PK",1995-11-11,2025-11-05,EMP1050,92284,7.6,11,90.0,4,2024-04-27
+EMP1055,Mariam Saeed,Marketing Specialist,Marketing,mariam.saeed76@finsolve-demo.com,"Rawalpindi, PK",2000-10-29,2025-08-06,EMP1054,85444,22.0,12,92.7,4,2024-03-18
+EMP1056,Mariam Johnson,Marketing Manager,Marketing,mariam.johnson85@finsolve-demo.com,Remote - PK,2001-12-07,2019-05-11,EMP1000,133724,19.5,18,97.2,3,2025-03-14
+EMP1057,Zainab Mirza,SEO Specialist,Marketing,zainab.mirza91@finsolve-demo.com,"Islamabad, PK",1975-07-27,2022-09-17,EMP1054,87362,20.1,3,93.1,3,2025-04-15
+EMP1058,Zeeshan Farooq,SEO Specialist,Marketing,zeeshan.farooq35@finsolve-demo.com,Remote - PK,1987-02-12,2024-11-27,EMP1054,99193,19.8,17,97.1,3,2025-08-29
+EMP1059,Junaid Iqbal,Marketing Specialist,Marketing,junaid.iqbal64@finsolve-demo.com,Remote - PK,1995-03-22,2020-09-25,EMP1051,83279,18.5,18,95.2,3,2024-01-30
+EMP1060,Omar Javed,Content Strategist,Marketing,omar.javed11@finsolve-demo.com,"Rawalpindi, PK",1986-08-03,2021-10-26,EMP1056,88253,8.2,8,94.6,3,2024-07-14
+EMP1061,Layla Hashmi,Compensation Analyst,HR,layla.hashmi29@finsolve-demo.com,"Dubai, UAE",1985-10-12,2025-09-29,EMP1062,96384,12.5,15,93.3,1,2024-10-28
+EMP1062,Priya Iqbal,HR Manager,HR,priya.iqbal43@finsolve-demo.com,Remote - PK,2001-02-01,2022-02-20,EMP1000,115513,12.4,16,92.1,5,2025-07-17
+EMP1063,Priya Awan,HR Manager,HR,priya.awan24@finsolve-demo.com,"Rawalpindi, PK",1986-04-11,2020-08-02,EMP1072,92094,4.7,6,91.7,4,2025-12-07
+EMP1064,Faisal Lee,Compensation Analyst,HR,faisal.lee23@finsolve-demo.com,"Faisalabad, PK",2001-06-12,2023-11-19,EMP1072,78120,15.1,3,97.8,3,2025-01-04
+EMP1065,Ayesha Johnson,People Ops Specialist,HR,ayesha.johnson97@finsolve-demo.com,Remote - Global,1987-04-22,2018-07-06,EMP1062,68295,23.4,17,91.4,5,2025-10-15
+EMP1066,Mariam Silva,HR Generalist,HR,mariam.silva15@finsolve-demo.com,"Lahore, PK",1987-10-03,2023-04-07,EMP1063,97621,12.5,10,90.2,2,2025-05-04
+EMP1067,Salman Javed,HR Generalist,HR,salman.javed16@finsolve-demo.com,"Dubai, UAE",1977-05-28,2019-09-14,EMP1072,97815,5.3,18,99.2,2,2024-09-11
+EMP1068,Ryan Yousaf,People Ops Specialist,HR,ryan.yousaf40@finsolve-demo.com,"Karachi, PK",1998-06-10,2022-04-08,EMP1063,74790,11.9,14,91.5,4,2025-03-15
+EMP1069,Grace Lee,HR Generalist,HR,grace.lee21@finsolve-demo.com,"Karachi, PK",1984-04-27,2025-01-06,EMP1063,109986,6.6,2,89.9,3,2024-03-17
+EMP1070,Iqra Awan,People Ops Specialist,HR,iqra.awan30@finsolve-demo.com,"Faisalabad, PK",1988-01-24,2018-05-14,EMP1062,90796,7.1,9,96.3,3,2025-12-04
+EMP1071,Sarah Kumar,People Ops Specialist,HR,sarah.kumar10@finsolve-demo.com,"Karachi, PK",1983-11-16,2022-10-08,EMP1072,103331,4.5,7,95.6,5,2024-05-25
+EMP1072,Hira Kumar,HR Manager,HR,hira.kumar65@finsolve-demo.com,Remote - Global,2000-07-13,2021-03-28,EMP1062,110996,11.7,14,96.1,4,2024-10-05
+EMP1073,Aliya Malik,Operations Analyst,Operations,aliya.malik76@finsolve-demo.com,"Karachi, PK",1989-06-16,2024-10-08,EMP1085,86313,7.5,2,90.7,4,2025-08-12
+EMP1074,Nadia Smith,Supply Chain Coordinator,Operations,nadia.smith56@finsolve-demo.com,Remote - Global,1976-10-21,2019-12-19,EMP1081,95764,12.4,14,98.8,3,2025-08-22
+EMP1075,Usman Javed,Supply Chain Coordinator,Operations,usman.javed85@finsolve-demo.com,"Dubai, UAE",1989-12-13,2021-08-08,EMP1078,84761,16.7,5,91.9,4,2024-10-22
+EMP1076,Adnan Wang,Operations Analyst,Operations,adnan.wang1@finsolve-demo.com,Remote - Global,1978-12-13,2021-07-12,EMP1083,87807,7.6,3,99.4,3,2025-06-10
+EMP1077,Iqra Ahmed,Operations Manager,Operations,iqra.ahmed17@finsolve-demo.com,"Faisalabad, PK",1991-03-25,2024-12-25,EMP1084,103576,18.6,14,97.0,3,2025-07-16
+EMP1078,Aliya Nguyen,Facilities Lead,Operations,aliya.nguyen71@finsolve-demo.com,"Dubai, UAE",1976-04-17,2025-01-24,EMP1000,77557,15.4,7,96.4,3,2024-01-15
+EMP1079,Usman Iqbal,Operations Analyst,Operations,usman.iqbal35@finsolve-demo.com,"Dubai, UAE",1980-04-08,2025-04-07,EMP1082,88241,20.3,15,99.0,3,2025-12-23
+EMP1080,Mehak Javed,Facilities Lead,Operations,mehak.javed9@finsolve-demo.com,"Faisalabad, PK",1995-06-28,2024-03-07,EMP1085,85573,5.2,6,98.9,3,2024-05-19
+EMP1081,Hassan Kumar,Facilities Lead,Operations,hassan.kumar85@finsolve-demo.com,Remote - Global,1997-10-10,2020-12-30,EMP1077,91874,20.1,9,96.6,4,2025-08-16
+EMP1082,Sobia Sheikh,Facilities Lead,Operations,sobia.sheikh90@finsolve-demo.com,"Rawalpindi, PK",1996-09-22,2021-11-14,EMP1083,104896,9.3,17,92.5,5,2024-07-12
+EMP1083,Daniel Abbasi,Operations Manager,Operations,daniel.abbasi85@finsolve-demo.com,"Islamabad, PK",1993-06-05,2018-06-28,EMP1000,120426,9.0,15,96.3,4,2025-01-30
+EMP1084,Emily Ahmed,Operations Manager,Operations,emily.ahmed93@finsolve-demo.com,"Islamabad, PK",2001-06-22,2021-09-21,EMP1000,102518,21.1,14,89.2,5,2024-01-16
+EMP1085,Iqra Silva,Operations Manager,Operations,iqra.silva69@finsolve-demo.com,"Dubai, UAE",1996-01-23,2020-12-21,EMP1083,74503,9.4,12,95.7,4,2025-11-21
+EMP1086,Sadia Anderson,Facilities Lead,Operations,sadia.anderson13@finsolve-demo.com,"Lahore, PK",1976-08-11,2024-12-04,EMP1000,105056,3.5,9,99.8,4,2025-03-20
+EMP1087,Aliya Farooq,Sales Manager,Sales,aliya.farooq68@finsolve-demo.com,"Dubai, UAE",1977-01-23,2021-08-21,EMP1000,78194,19.5,9,92.2,3,2024-09-07
+EMP1088,Daniel Smith,Sales Development Rep,Sales,daniel.smith19@finsolve-demo.com,"Rawalpindi, PK",1982-11-08,2018-11-20,EMP1090,84280,15.4,12,95.3,3,2025-08-20
+EMP1089,Farhan Anderson,Sales Manager,Sales,farhan.anderson10@finsolve-demo.com,Remote - Global,1986-06-15,2025-06-24,EMP1097,134636,2.2,14,98.6,4,2024-06-10
+EMP1090,Noor Saeed,Sales Manager,Sales,noor.saeed31@finsolve-demo.com,"Dubai, UAE",1986-03-21,2023-02-15,EMP1000,130015,20.6,6,99.8,4,2024-04-19
+EMP1091,Daniel Qureshi,Sales Manager,Sales,daniel.qureshi78@finsolve-demo.com,Remote - Global,1975-12-26,2025-05-20,EMP1087,113096,10.7,0,94.7,4,2024-02-20
+EMP1092,Mehak Nguyen,Sales Manager,Sales,mehak.nguyen88@finsolve-demo.com,"Islamabad, PK",1990-10-21,2020-06-16,EMP1000,104562,16.0,8,96.0,4,2025-11-06
+EMP1093,Chen Raza,Account Executive,Sales,chen.raza23@finsolve-demo.com,"Rawalpindi, PK",1994-10-10,2018-05-17,EMP1098,102492,14.8,4,89.1,3,2025-03-01
+EMP1094,Fatima Kumar,Sales Manager,Sales,fatima.kumar96@finsolve-demo.com,Remote - PK,1997-07-05,2021-01-21,EMP1000,143979,20.3,8,98.8,5,2024-10-29
+EMP1095,Bilqis Raza,Enterprise Account Manager,Sales,bilqis.raza12@finsolve-demo.com,"Dubai, UAE",1981-04-25,2020-07-13,EMP1000,84269,20.9,12,99.4,4,2025-01-09
+EMP1096,Ayesha Baig,Account Executive,Sales,ayesha.baig14@finsolve-demo.com,"Rawalpindi, PK",1991-07-14,2025-07-18,EMP1094,121609,18.5,8,94.9,4,2025-01-15
+EMP1097,James Khan,Sales Manager,Sales,james.khan15@finsolve-demo.com,"Islamabad, PK",1984-12-05,2025-04-06,EMP1000,154364,3.4,14,98.7,3,2025-02-22
+EMP1098,Sana Ahmed,Sales Manager,Sales,sana.ahmed96@finsolve-demo.com,"Dubai, UAE",1980-03-17,2019-02-03,EMP1000,138969,7.2,17,89.6,3,2025-11-17
+EMP1099,Emma Lee,Sales Development Rep,Sales,emma.lee57@finsolve-demo.com,"Rawalpindi, PK",1979-06-11,2023-06-28,EMP1094,116379,15.5,8,88.4,3,2025-03-30
+EMP1100,Junaid Qureshi,Account Executive,Sales,junaid.qureshi12@finsolve-demo.com,"Rawalpindi, PK",1999-06-04,2025-03-26,EMP1103,110147,9.9,12,91.3,5,2025-04-10
+EMP1101,Wei Anderson,Account Executive,Sales,wei.anderson27@finsolve-demo.com,"Rawalpindi, PK",1989-12-17,2020-09-24,EMP1103,68629,23.8,18,90.4,4,2025-07-21
+EMP1102,Adnan Silva,Sales Development Rep,Sales,adnan.silva15@finsolve-demo.com,"Karachi, PK",1981-08-14,2024-09-07,EMP1089,105064,2.1,4,99.7,3,2024-06-27
+EMP1103,Fatima Khan,Sales Manager,Sales,fatima.khan15@finsolve-demo.com,"Lahore, PK",2001-05-31,2021-08-19,EMP1090,105586,2.3,8,88.6,4,2025-06-22
+EMP1104,James Awan,Sales Manager,Sales,james.awan67@finsolve-demo.com,"Faisalabad, PK",2001-08-18,2019-03-23,EMP1000,141671,11.9,7,99.2,2,2025-11-05
